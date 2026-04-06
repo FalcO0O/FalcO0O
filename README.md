@@ -22,6 +22,24 @@ I am a Computer Science student specializing in Software Engineering, passionate
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🛠️ Hardware & Personal Projects
+- 🕰️ **[Nixie Tube Clock](https://github.com/FalcO0O/Nixie-clock)**: A custom-built hardware project blending vintage Nixie tube displays with modern IoT control logic.
+- 🔐 **[KeeLoq IoT Integration](https://github.com/FalcO0O/keeloq-IoT)**: Implementation of the secure KeeLoq hopping code algorithm with integrated mobile application connectivity.
+- 🌊 **[Real-Time Fluid Simulation](https://github.com/FalcO0O/fluid-simulation)**: A visually engaging fluid dynamics simulation running on an ESP32 microcontroller and rendered directly on a HUB75 LED matrix panel.
+- ⚡ **[ESP32-S3 Custom IoT Board](https://github.com/FalcO0O/ESP32-S3_IoT_Board)**: A custom-designed PCB engineered around the ESP32-S3 chip, functioning as an All-in-One (AIO) board for the deployment of versatile IoT applications.
+
+#### 🎓 University Projects (AGH)
+- 🏥 **[Clinic Management System](https://github.com/FalcO0O/Clinic-Management-System)**: A full-stack web application developed using Spring Boot, designed to handle patient records, appointments, and clinic administration.
+- 📜 **[JavaScript Programming Course](https://github.com/FalcO0O/Programowanie-JavaScript)**: A dedicated repository containing algorithms, scripts, and assignments from an intensive JS programming course.
+- 🗄️ **[Full-Stack Database System](https://github.com/FalcO0O/Bazy-danych-II)**: A comprehensive web project created for the Databases course, focusing on complex data modeling and seamless frontend-to-database integration.
+- 🌍 **[Darwin World Simulation](https://github.com/FalcO0O/Darwin-World)**: An advanced, object-oriented evolution simulation built in Java, modeling genetic mutations, animal behavior, and dynamic ecosystem mechanics.
+- 📊 **[Statistical Naive Bayes Classifier](https://github.com/FalcO0O/Statystyka-Projekt-AGH)**: A machine learning and statistics project featuring a custom Naive Bayes classifier applied to categorize the classic Iris dataset.
+- 🌐 **[Web Applications Fundamentals](https://github.com/FalcO0O/WDAI_Projekt)**: A responsive website developed for the Introduction to Web Applications (WDAI) course, utilizing modern web standards.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
