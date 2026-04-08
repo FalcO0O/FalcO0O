@@ -33,6 +33,7 @@ I am a Computer Science student specializing in Software Engineering, passionate
 #### 🎓 University Projects (AGH)
 - 🏥 **[Clinic Management System](https://github.com/FalcO0O/Clinic-Management-System)**: A full-stack web application developed using Spring Boot, designed to handle patient records, appointments, and clinic administration.
 - 📜 **[JavaScript Programming Course](https://github.com/FalcO0O/Programowanie-JavaScript)**: A dedicated repository containing algorithms, scripts, and assignments from an intensive JS programming course.
+- 🧠 **[Introduction to Artificial Intelligence](https://github.com/FalcO0O/Introduction-to-Artificial-Intelligence)**: A comprehensive collection of machine learning and AI laboratory solutions in Python, featuring implementations of neural networks, object detection, NLP, and recommendation algorithms.
 - 🗄️ **[Full-Stack Database System](https://github.com/FalcO0O/Bazy-danych-II)**: A comprehensive web project created for the Databases course, focusing on complex data modeling and seamless frontend-to-database integration.
 - 🌍 **[Darwin World Simulation](https://github.com/FalcO0O/Darwin-World)**: An advanced, object-oriented evolution simulation built in Java, modeling genetic mutations, animal behavior, and dynamic ecosystem mechanics.
 - 📊 **[Statistical Naive Bayes Classifier](https://github.com/FalcO0O/Statystyka-Projekt-AGH)**: A machine learning and statistics project featuring a custom Naive Bayes classifier applied to categorize the classic Iris dataset.
