@@ -24,11 +24,12 @@ I am a Computer Science student specializing in Software Engineering, passionate
 
 ### 🚀 Featured Projects
 
-#### 🛠️ Hardware & Personal Projects
+#### 🛠️ Personal Projects
 - 🕰️ **[Nixie Tube Clock](https://github.com/FalcO0O/Nixie-clock)**: A custom-built hardware project blending vintage Nixie tube displays with modern IoT control logic.
 - 🔐 **[KeeLoq IoT Integration](https://github.com/FalcO0O/keeloq-IoT)**: Implementation of the secure KeeLoq hopping code algorithm with integrated mobile application connectivity.
 - 🌊 **[Real-Time Fluid Simulation](https://github.com/FalcO0O/fluid-simulation)**: A visually engaging fluid dynamics simulation running on an ESP32 microcontroller and rendered directly on a HUB75 LED matrix panel.
 - ⚡ **[ESP32-S3 Custom IoT Board](https://github.com/FalcO0O/ESP32-S3_IoT_Board)**: A custom-designed PCB engineered around the ESP32-S3 chip, functioning as an All-in-One (AIO) board for the deployment of versatile IoT applications.
+- 🚦 **[Traffic Lights](https://github.com/FalcO0O/traffic-lights)**: A 4-way intersection traffic signal simulator featuring adaptive control algorithms, complete with a CLI batch mode and an interactive real-time web UI.
 
 #### 🎓 University Projects (AGH)
 - 🏥 **[Clinic Management System](https://github.com/FalcO0O/Clinic-Management-System)**: A full-stack web application developed using Spring Boot, designed to handle patient records, appointments, and clinic administration.
